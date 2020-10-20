@@ -1,2 +1,2 @@
 # hello-world
-Mt first sample program in GitHub
+My first sample program in GitHub on 2020.10.20
